@@ -2,5 +2,6 @@
 
 `docker compose -f docker-compose.dev.yml up --build`
 
-> [!NOTE] > **File to edit**
+> [!NOTE]
+> **File to edit**
 > client/src/page.js
